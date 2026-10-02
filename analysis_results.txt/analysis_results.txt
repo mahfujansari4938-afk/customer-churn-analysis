@@ -1,0 +1,30 @@
+CUSTOMER CHURN ANALYSIS - RESULTS
+
+Dataset Summary
+Total Customers: 15
+
+Churn Analysis
+Churned Customers: 6
+Retained Customers: 9
+Overall Churn Rate: 40.00%
+
+Customer Behavior
+Average Tenure of Churned Customers: 7.17 months
+Average Tenure of Retained Customers: 36.22 months
+
+Monthly Charges
+Average Monthly Charges - Churned Customers: 85.07
+Average Monthly Charges - Retained Customers: 61.64
+
+Key Observations
+1. Customers with shorter tenure showed higher churn in this sample.
+2. Churned customers had higher average monthly charges than retained customers.
+3. Month-to-month contracts showed more churn than longer-term contracts.
+4. Electronic check and mailed check customers were present among churned customers.
+5. Fiber optic customers represented a higher share of churned customers in this sample.
+
+Business Insights
+- Customer retention efforts can focus on newer customers.
+- Pricing and service value should be reviewed for high-charge customers.
+- Longer-term contracts may support customer retention.
+- Customer segments with higher churn should be monitored regularly.
