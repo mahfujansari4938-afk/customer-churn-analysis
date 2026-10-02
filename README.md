@@ -1,52 +1,43 @@
-# Customer Churn Analysis
+# E-Commerce Sales Analysis
 
 ## Project Overview
 
-This project analyzes customer data to identify churn patterns, understand customer behavior, and generate business insights that can help improve customer retention.
+This project analyzes e-commerce sales data to identify sales trends, revenue performance, product performance, regional performance, customer behavior, and payment preferences.
+
+The project demonstrates how data analysis techniques can be used to extract meaningful business insights and support data-driven decision-making.
 
 ## Objectives
 
-- Analyze overall customer churn
-- Identify factors associated with customer churn
-- Understand customer behavior and usage patterns
-- Compare churn across customer segments
+- Analyze overall sales and revenue performance
+- Identify top-performing products
+- Analyze regional sales performance
+- Understand customer type and purchasing behavior
+- Analyze payment method preferences
+- Identify sales trends over time
 - Generate actionable business insights
 
 ## Tools & Technologies
 
 - Python
 - Pandas
-- NumPy
 - Matplotlib
-- Seaborn
 - SQL
-- Microsoft Excel
-- Power BI
-
-## Project Workflow
-
-Data Collection → Data Cleaning → Exploratory Data Analysis → SQL Analysis → Visualization → Dashboard → Business Insights
-
-## Key Analysis
-
-The project will analyze:
-
-- Customer churn rate
-- Customer demographics
-- Customer tenure
-- Subscription and service details
-- Payment methods
-- Monthly charges
-- Customer segments
-- Churn patterns and trends
+- GitHub
 
 ## Project Structure
 
 ```text
-customer-churn-analysis/
+ecommerce-sales-analysis/
 │
 ├── data/
+│   └── ecommerce_sales.csv
+│
 ├── python/
+│   └── sales_analysis.py
+│
 ├── sql/
-├── dashboard/
+│   └── sales_analysis.sql
+│
+├── analysis_results.txt
+│
 └── README.md
