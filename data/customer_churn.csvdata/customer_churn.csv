@@ -1,0 +1,16 @@
+CustomerID,Gender,SeniorCitizen,Tenure,MonthlyCharges,Contract,PaymentMethod,InternetService,Churn
+C001,Male,0,12,65.50,Month-to-month,Electronic check,DSL,No
+C002,Female,0,2,70.20,Month-to-month,Mailed check,Fiber optic,Yes
+C003,Male,0,36,55.75,One year,Bank transfer,DSL,No
+C004,Female,1,8,85.30,Month-to-month,Electronic check,Fiber optic,Yes
+C005,Male,0,48,60.10,Two year,Credit card,DSL,No
+C006,Female,0,5,92.40,Month-to-month,Electronic check,Fiber optic,Yes
+C007,Male,1,24,75.60,One year,Bank transfer,Fiber optic,No
+C008,Female,0,60,50.25,Two year,Credit card,DSL,No
+C009,Male,0,3,88.90,Month-to-month,Mailed check,Fiber optic,Yes
+C010,Female,0,42,62.80,One year,Bank transfer,DSL,No
+C011,Male,0,18,78.40,Month-to-month,Electronic check,Fiber optic,Yes
+C012,Female,1,30,58.90,Two year,Credit card,DSL,No
+C013,Male,0,7,95.20,Month-to-month,Electronic check,Fiber optic,Yes
+C014,Female,0,54,52.60,Two year,Bank transfer,DSL,No
+C015,Male,0,20,73.30,One year,Credit card,Fiber optic,No
